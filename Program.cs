@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Gépész Fighter
-
+            // ChatGPT(alias Váradi Zsolt)
             int bulcsa = 1000;
             int levente = 2500;
             int varadi = 5000;
